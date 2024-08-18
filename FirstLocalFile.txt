@@ -5,6 +5,3 @@ fourth
 fifth
 sixth
 seventh
-eight
-nineth
-tenth
